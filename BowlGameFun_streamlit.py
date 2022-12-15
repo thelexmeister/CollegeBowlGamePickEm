@@ -1,21 +1,13 @@
-#Make sure this is done first
-
-#pip install streamlit -q
-#pip install tornado==5.1
-
-
+# A short code to make a simple dashboard to distribute information
 
 import streamlit as st
 import pandas as pd
-
-
 
 dfr = pd.read_csv('BowlGamePracticeRecords.csv')
 dfB = pd.read_csv('BowlGames.csv')
 dfG = pd.read_csv('Entries_2022.csv')
 
 st.set_page_config(page_title='Bowl Game Pick-em', layout="wide")
-
 
 # Add a sidebar to the web page. 
 st.markdown('---')
@@ -54,4 +46,3 @@ with col2:
     st.subheader('Is anyone at 100%?')
     st.dataframe(dfr)
     
-
