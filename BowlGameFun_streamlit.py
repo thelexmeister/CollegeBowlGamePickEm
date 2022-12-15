@@ -12,9 +12,9 @@ import matplotlib.pyplot as plt
 
 
 
-dfr = pd.read_csv('.../BowlGamePracticeRecords.csv')
-dfB = pd.read_csv('.../BowlGames.csv')
-dfG = pd.read_csv('.../Entries_2022.csv')
+dfr = pd.read_csv('BowlGamePracticeRecords.csv')
+dfB = pd.read_csv('BowlGames.csv')
+dfG = pd.read_csv('Entries_2022.csv')
 
 st.set_page_config(page_title='Bowl Game Pick-em', layout="wide")
 
