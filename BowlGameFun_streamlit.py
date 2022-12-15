@@ -15,7 +15,8 @@ st.markdown('---')
 st.sidebar.image('https://www.shutterstock.com/image-photo/july-26-2018-pasadena-california-260nw-1144270187.jpg', width=200)
 st.sidebar.markdown('Bowl Game Fun Challenge')
 st.sidebar.markdown('We only made picks for 10 games, just to make it easier, but there are 40+ bowl games this year so enjoy!')
-
+st.sidebar.markdown('')
+st.sidebar.markdown('Remember, we are in this for the fun, but how YOU define fun is up to you!')
 st.sidebar.markdown('')
 
 st.sidebar.markdown('---')
