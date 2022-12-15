@@ -12,7 +12,7 @@ st.set_page_config(page_title='Bowl Game Pick-em', layout="wide")
 # Add a sidebar to the web page. 
 st.markdown('---')
 # Sidebar Configuration
-st.sidebar.image('https://www.shutterstock.com/image-photo/july-26-2018-pasadena-california-260nw-1144270187.jpg', width=300)
+st.sidebar.image('https://www.shutterstock.com/image-photo/july-26-2018-pasadena-california-260nw-1144270187.jpg', width=200)
 st.sidebar.markdown('Bowl Game Fun Challenge')
 st.sidebar.markdown('We only made picks for 10 games, just to make it easier, but there are 40+ bowl games this year so enjoy!')
 
@@ -27,7 +27,7 @@ st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
 st.header('Fun Facts for The Vegas Bowl')
-st.image('https://kslsports.com/wp-content/uploads/2020/12/Las-Vegas-Bowl-620x370.jpg')
+st.image('https://kslsports.com/wp-content/uploads/2020/12/Las-Vegas-Bowl-620x370.jpg', width=200)
 st.text('Photo by Ethan Miller/Getty Images')
 st.subheader('Officially started in 1992')
 st.subheader('This was originally the California Raisin Bowl, but it needed a new home. And\
