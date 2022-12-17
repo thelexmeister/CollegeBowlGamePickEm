@@ -1,7 +1,7 @@
 Participant,Wins,Loses
-X,0,0
-T,0,0
-ES,0,0
-VH,0,0
-S,0,0
-R,0,0
+X,1,0
+T,1,0
+ES,0,1
+VH,1,0
+S,0,1
+R,1,0
