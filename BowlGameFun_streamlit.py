@@ -23,7 +23,7 @@ st.sidebar.markdown('---')
 st.sidebar.write('Developed by X')
 
 # Display the Data in the App.
-st.image('https://media.istockphoto.com/id/1343884923/photo/low-angle-view-of-a-college-style-football-at-a-yard-line-with-dramatic-lighting.jpg?b=1&s=170667a&w=0&k=20&c=dEFqtXMW-PMzCkOxWGggiNH8IItYP0GybpAPyHJcazI=')
+st.image('https://cdn.vox-cdn.com/thumbor/569VsnzF_YzfZoPsruCJJOHuKdI=/0x0:3000x2000/1220x813/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67565049/1191484494.jpg.0.jpg')
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
