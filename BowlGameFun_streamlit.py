@@ -27,12 +27,12 @@ st.image('https://media.istockphoto.com/id/1343884923/photo/low-angle-view-of-a-
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('Fun Facts for The Vegas Bowl')
-st.image('https://kslsports.com/wp-content/uploads/2020/12/Las-Vegas-Bowl-620x370.jpg', width=300)
-st.text('Photo by Ethan Miller/Getty Images')
-st.subheader('Officially started in 1992')
-st.subheader('This was originally the California Raisin Bowl, but it needed a new home. And\
-             because of how slow Vegas is around Christmas, Vegas pushed for the game to be moved there.')
+st.header('Fun Facts for The Idaho Potato Bowl')
+st.image('https://cdn.vox-cdn.com/thumbor/jugW6XKeTfI6CAttAj-3iDT6tIM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21906321/1191484494.jpg', width=300)
+st.text('Photo by Loren Orr/Getty Images')
+st.subheader('Officially started in 1997')
+st.subheader('This was originally the Humanitarian Bowl. But it was only called that for 2 years.\
+             Since then it has had 5 different sponsors, settling on the Idaho Potato Commission since 2011.')
 
 st.header('Bowl Games and Results')
 st.dataframe(dfB)
