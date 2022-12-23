@@ -27,12 +27,12 @@ st.image('https://media.wired.com/photos/5a3af51805f16a0c504434ee/master/pass/fo
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('Fun Facts for The Idaho Potato Bowl')
-st.image('https://cdn.vox-cdn.com/thumbor/569VsnzF_YzfZoPsruCJJOHuKdI=/0x0:3000x2000/1220x813/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67565049/1191484494.jpg.0.jpg', width=300)
-st.text('Photo by Loren Orr/Getty Images')
+st.header('Fun Facts for The Independence Bowl')
+st.image('https://upload.wikimedia.org/wikipedia/commons/c/c7/Independence_Stadium.jpg', width=300)
+st.text('Photo by Allison Foley')
 st.subheader('Officially started in 1997')
-st.subheader('This was originally the Humanitarian Bowl. But it was only called that for 2 years.\
-             Since then it has had 5 different sponsors, settling on the Idaho Potato Commission since 2011.')
+st.subheader('OK, not gonna lie: I picked this one because, well, INDEPENDENCE!!\
+             But seriously, this bowl game started in 1976 (who knew). It is named after the stadium in Shreveport, LA.')
 
 st.header('Bowl Games and Results')
 st.dataframe(dfB)
