@@ -33,8 +33,8 @@ st.text('Photo by Photo by Darryl Oumi/Getty Images')
 st.subheader('Officially started in 2002 (as that name)')
 st.subheader('I grew up watching this bowl game and always felt it was odd - not football weather!\
              Started in 1936 as the Poi Bowl. Then through the 40s to early 50s (when it was played - it was stopped because of WW1 and WW2) it was\
-             the PINEAPPLE BOWL!!! YUM! 1982 - 2000 (this is my time growing up with the bowl game)\
-             when it was called the Aloha Bowl. But did you know this game was moved to Seattle, called the\
+             the PINEAPPLE BOWL!!! YUM! From 1982 - 2000 (this is my time growing up with the bowl game)\
+             it was called the Aloha Bowl. But did you know this game was moved to Seattle, called the\
              Seattle Bowl, from 2000-2002.\
              Hawaii has the most appearances (9). This will be the third appearance for the two teams playing this year. ')
 
