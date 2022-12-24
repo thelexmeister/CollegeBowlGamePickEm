@@ -27,12 +27,16 @@ st.image('https://media.wired.com/photos/5a3af51805f16a0c504434ee/master/pass/fo
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('Fun Facts for The Independence Bowl')
+st.header('Fun Facts for Hawaii Bowl')
 st.image('https://upload.wikimedia.org/wikipedia/commons/c/c7/Independence_Stadium.jpg', width=300)
 st.text('Photo by Allison Foley')
-st.subheader('Officially started in 1997')
-st.subheader('OK, not gonna lie: I picked this one because, well, INDEPENDENCE!!\
-             But seriously, this bowl game started in 1976 (who knew). It is named after the stadium in Shreveport, LA.')
+st.subheader('Officially started in 2002 (as that name)')
+st.subheader('I grew up watching this bowl game and always felt it was odd - not football weather!\
+             Started in 1936 as the Poi Bowl. Then through the 40s to early 50s (when it was played) it was\
+             the PINEAPPLE BOWL!!! YUM! 1982 - 2000 (this is my time growing up with the bowl game)\
+             when it was called the Aloha Bowl. But did you know this game was moved to Seattle, called the\
+             Seattle Bowl, from 2000-2002.\
+             Hawaii has the most appearances (9). This will be the third appearance for the two teams playing this year. ')
 
 st.header('Bowl Games and Results')
 st.dataframe(dfB)
