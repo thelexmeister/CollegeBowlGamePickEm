@@ -28,8 +28,8 @@ st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
 st.header('Fun Facts for Hawaii Bowl')
-st.image('https://upload.wikimedia.org/wikipedia/commons/c/c7/Independence_Stadium.jpg', width=300)
-st.text('Photo by Allison Foley')
+st.image('https://cdn.vox-cdn.com/thumbor/3C6VGijImlfq9l6tMJb3zwOTE1s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21875845/1190467819.jpg.jpg', width=300)
+st.text('Photo by Photo by Darryl Oumi/Getty Images')
 st.subheader('Officially started in 2002 (as that name)')
 st.subheader('I grew up watching this bowl game and always felt it was odd - not football weather!\
              Started in 1936 as the Poi Bowl. Then through the 40s to early 50s (when it was played) it was\
