@@ -30,9 +30,9 @@ st.header('Scroll down to see your picks, fun facts about upcoming bowl games an
 st.header('We have made it! To another local interest bowl game: The Holiday Bowl!')
 st.image('https://cdn.vox-cdn.com/thumbor/3C6VGijImlfq9l6tMJb3zwOTE1s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21875845/1190467819.jpg.jpg', width=300)
 st.text('Photo by Photo by Darryl Oumi/Getty Images')
-st.subheader('Officially started in 2002 (as that name)')
+
 st.subheader('Ok, boy does the bowl have some West Coast history! So, first it started in 1978 to give the WAC and automatic bowl bid after\
-              the Fiesta Bowl pulled its association with the WAC when Arizona and Arizona State bolted for the Pac8 - to make the Pac10.\')
+              the Fiesta Bowl pulled its association with the WAC when Arizona and Arizona State bolted for the Pac8 - to make the Pac10.')
 st.subheader(' ')
 st.subheader('While there have been many games of note for the Pac10/12, because ironically it then became a tie-in for the Pac10/12 since 1998,\
               the most controversial game was 1984...UGH. I will let you read the write up on wikipedia for the full story, but, in short, the game\
