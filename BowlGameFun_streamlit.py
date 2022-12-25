@@ -27,17 +27,21 @@ st.image('https://media.wired.com/photos/5a3af51805f16a0c504434ee/master/pass/fo
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('Fun Facts for Hawaii Bowl')
+st.header('We have made it! To another local interest bowl game: The Holiday Bowl!')
 st.image('https://cdn.vox-cdn.com/thumbor/3C6VGijImlfq9l6tMJb3zwOTE1s=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21875845/1190467819.jpg.jpg', width=300)
 st.text('Photo by Photo by Darryl Oumi/Getty Images')
 st.subheader('Officially started in 2002 (as that name)')
-st.subheader('I grew up watching this bowl game and always felt it was odd - not football weather!\
-             Started in 1936 as the Poi Bowl. Then through the 40s to early 50s (when it was played - it was stopped because of WW1 and WW2) it was\
-             the PINEAPPLE BOWL!!! YUM! From 1982 - 2000 (this is my time growing up with the bowl game)\
-             it was called the Aloha Bowl. But did you know this game was moved to Seattle, called the\
-             Seattle Bowl, from 2000-2002.\
-             Hawaii has the most appearances (9). This will be the third appearance for the two teams playing this year. ')
-
+st.subheader('Ok, boy does the bowl have some West Coast history! So, first it started in 1978 to give the WAC and automatic bowl bid after\
+              the Fiesta Bowl pulled its association with the WAC when Arizona and Arizona State bolted for the Pac8 - to make the Pac10.\')
+st.subheader(' ')
+st.subheader('While there have been many games of note for the Pac10/12, because ironically it then became a tie-in for the Pac10/12 since 1998,\
+              the most controversial game was 1984...UGH. I will let you read the write up on wikipedia for the full story, but, in short, the game\
+              was relatively close the whole game. Ended 24-17. WOW sounds great, right? This was the year an undefeated BYU team BARELY beat a\
+              6-5 Michigan team to "secure" the National Championship. No matter how bad we feel the National Champion is decided now, it is\
+              decidedly better than it was. (e_e)!\')
+st.subheader(' ')
+st.subheader('BYU is the school that has visited the most, but Oregon has gone 4 times and has a winning record. Let us hope they keep it up!')
+              
 st.header('Bowl Games and Results')
 st.dataframe(dfB)
 
