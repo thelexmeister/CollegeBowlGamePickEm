@@ -42,7 +42,9 @@ st.subheader('While there have been many games of note for the Pac10/12, because
               decidedly better than it was. (e_e)!')
 st.subheader(' ')
 st.subheader('BYU is the school that has visited the most, but Oregon has gone 4 times and has a winning record. Let us hope they keep it up!')
-              
+st.subheader(' ')
+st.subheader(' ')
+
 st.header('Bowl Games and Results')
 st.dataframe(dfB)
 
