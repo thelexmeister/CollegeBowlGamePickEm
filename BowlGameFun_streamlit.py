@@ -27,19 +27,18 @@ st.image('https://media.wired.com/photos/5a3af51805f16a0c504434ee/master/pass/fo
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('Orange Bowl and Sun Bowl')
-st.image('http://www.sunbowl.org/system/pages/image_1s/6/original/2010.jpg?1521497326', width=300)
-st.text('Photo from www.sunbowl.org')
-st.subheader('Orange Bowl is completely ORANGE (Tennessee and Clemson) - wow, take things literally why not?!?!?')
-st.subheader('Sun Bowl is played in "the pass"! Good ol El Paso! What a great place! Not a joke, not sarcastic - I was born there!')
+st.header('DEC 31st - Sugar and Fiesta Bowl')
+st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczlRcqmq__rpgu-zU_M8nawTv5jakUcKh2Q&usqp=CAU', width=300)
+st.text('HA HA HA - wrong Sugar Bowl...on purpose. I grew up skiing here..l')
 st.subheader(' ')
-st.subheader('Orange Bowl: Started in 1935. Only a few times has a non-ranked team played in the bowl game.\
-             Only in 1935, 1936, 1938, and 1944, were both teams not ranked. The first year there was an MVP (1965) it was Joe Namath. ')
+st.subheader("Sugar Bowl: Started in 1935. So many of these games started in 1935?!?!?.\
+             I'm just going to share the picture...this is from the 40s. So cool! ")
+st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tulane_Stadium_Sugar_Bowl_This_Week_in_New_Orleans_Dec_4_1948.jpg/405px-Tulane_Stadium_Sugar_Bowl_This_Week_in_New_Orleans_Dec_4_1948.jpg',width=300)
 st.subheader(' ')
-st.subheader('SUN BOWL!!!!! So we know it is in a great city (El Paso), which is a mile high - take that Denver!\
-             Started in 1935! Two old games today! Oh this is fun: the 1940 game was between the Arizona State Teachers College\
-             at Tempe and the Catholic University Cardinals - the game ended 0-0! Fun Pac12 fact - this is a Pac10/12 tie-in and \
-             only Colorado and Cal have not appeared in the Sun Bowl. Pac12 is 19-12-1.')
+st.subheader('Fiesta Bowl: This only started in 1971. But here we go, a BCS semi-final!\
+             THE Ohio State has made the most appearances (9). Arizona State has the most appearances\
+             for a Pac-12 school. There were a lot of fun things I learned, but this got me:\
+             Jan 2, 2021 Brock Purdy was the Offensive MVP!')
 st.subheader(' ')
 st.subheader(' ')
 
