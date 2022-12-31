@@ -1,11 +1,11 @@
-Bowl game,Date,Score A,Team A,@,Team B,Score B
-Las Vegas Bowl,17-Dec,30,Oregon State,@,Florida,3
-Famous Idaho Potato Bowl,20-Dec,41,Eastern Michigan,@,San Jose State,27
-Independence Bowl,23-Dec,23,Houston,@,Louisiana,16
-Hawai'i Bowl,24-Dec,25,Middle Tennessee State,@,San Diego State,23
-Holiday Bowl,28-Dec,28,Oregon ,@,North Carolina,27
-Orange Bowl,30-Dec,31,Tennessee,@,Clemson,14
-Sun Bowl,30-Dec,35,UCLA,@,Pitt,37
-Sugar Bowl,31-Dec,?,Alabama,@,Kansas State,?
-Fiesta Bowl,31-Dec,?,Michigan,@,TCU,?
-Rose Bowl,2-Jan,?,Utah ,@,Penn state,?
+Bowl game,Date,Score A,Team A,v,Team B,Score B
+Las Vegas Bowl,17-Dec,30,Oregon State,v,Florida,3
+Famous Idaho Potato Bowl,20-Dec,41,Eastern Michigan,v,San Jose State,27
+Independence Bowl,23-Dec,23,Houston,v,Louisiana,16
+Hawai'i Bowl,24-Dec,25,Middle Tennessee State,v,San Diego State,23
+Holiday Bowl,28-Dec,28,Oregon,v,North Carolina,27
+Orange Bowl,30-Dec,31,Tennessee,v,Clemson,14
+Sun Bowl,30-Dec,35,UCLA,v,Pitt,37
+Sugar Bowl,31-Dec,?,Alabama,v,Kansas State,?
+Fiesta Bowl,31-Dec,?,Michigan,v,TCU,?
+Rose Bowl,2-Jan,?,Utah,v,Penn state,?
