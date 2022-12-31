@@ -29,7 +29,7 @@ st.header('Scroll down to see your picks, fun facts about upcoming bowl games an
 
 st.header('DEC 31st - Sugar and Fiesta Bowl')
 st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczlRcqmq__rpgu-zU_M8nawTv5jakUcKh2Q&usqp=CAU', width=300)
-st.text('HA HA HA - wrong Sugar Bowl...on purpose. I grew up skiing here..l')
+st.text('HA HA HA - wrong Sugar Bowl...on purpose. I grew up skiing here.')
 st.subheader(' ')
 st.subheader("Sugar Bowl: Started in 1935. So many of these games started in 1935?!?!?.\
              I'm just going to share the picture...this is from the 40s. So cool! ")
