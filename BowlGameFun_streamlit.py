@@ -35,7 +35,7 @@ st.subheader(' ')
 st.subheader("Rose bowl: 1902 - first time it was played. Then picked up again in 1916 and hasn't stopped since.\
             In 2021, it was played in TX not in CA. The only other time this was done was\
             1942 just after Pearl Harbor. They moved it because Duke didn't want to go to the West Coast so they\
-            invited Oregon State go to them to play."
+            invited Oregon State go to them to play.")
 st.subheader(' ')
 st.subheader('USC has played the most times (34) - HA HA! Not there this year!! USC and Michigan have met 8 times!\
             There is just so much history with this game...gotta love it!')
