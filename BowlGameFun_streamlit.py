@@ -27,18 +27,19 @@ st.image('https://media.wired.com/photos/5a3af51805f16a0c504434ee/master/pass/fo
 st.header('WELCOME TO THE COLLEGE BOWL PICK-EM 2022-23')
 st.header('Scroll down to see your picks, fun facts about upcoming bowl games and where you stand.')
 
-st.header('DEC 31st - Sugar and Fiesta Bowl')
-st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczlRcqmq__rpgu-zU_M8nawTv5jakUcKh2Q&usqp=CAU', width=300)
-st.text('HA HA HA - wrong Sugar Bowl...on purpose. I grew up skiing here.')
+st.header('JAN 2nd - The Gran-daddy of them all!')
+st.image('https://rosebowlinstitute.org/cdn/rose-bowl-stadium-home-hero-2.jpg', width=300)
+st.text('https://rosebowlinstitute.org/')
 st.subheader(' ')
-st.subheader("Sugar Bowl: Started in 1935. So many of these games started in 1935?!?!?.\
-             I'm just going to share the picture...this is from the 40s. So cool! ")
-st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tulane_Stadium_Sugar_Bowl_This_Week_in_New_Orleans_Dec_4_1948.jpg/405px-Tulane_Stadium_Sugar_Bowl_This_Week_in_New_Orleans_Dec_4_1948.jpg',width=300)
+
+st.subheader("Rose bowl: 1902 - first time it was played. Then picked up again in 1916 and hasn't stopped since.\
+            In 2021, it was played in TX not in CA. The only other time this was done was\
+            1942 just after Pearl Harbor. They moved it because Duke didn't want to go to the West Coast so they\
+            invited Oregon State go to them to play."
 st.subheader(' ')
-st.subheader('Fiesta Bowl: This only started in 1971. But here we go, a BCS semi-final!\
-             THE Ohio State has made the most appearances (9). Arizona State has the most appearances\
-             for a Pac-12 school. There were a lot of fun things I learned, but this got me:\
-             Jan 2, 2021 Brock Purdy was the Offensive MVP!')
+st.subheader('USC has played the most times (34) - HA HA! Not there this year!! USC and Michigan have met 8 times!\
+            There is just so much history with this game...gotta love it!')
+st.subheader('GO UTES!')
 st.subheader(' ')
 st.subheader(' ')
 
